@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   * ✉️ devinwallce@protonmail.com 
   * 🐦 @0xdevbot
-- 🏢 curently employed as a software dev for a fortune 50 company
+- 🏢 curently employed as a software dev for State Farm
 - 💰 will take on small paid side projects
 
 <!---

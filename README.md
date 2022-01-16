@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Devin-Wallace, software dev for State Farm
+- 🤠 I switched over to gitlab a few years ago, so my most up to date projects are there! (
 - 👀 I’m interested in General Software Devlopment, Cyber Security, Artificial Intelligence, and 🚀 Astrospace Engineering
 - 🌱 I’m currently learning the AWS enviroment (for work) & AI as a field (for pleasure)
 - 💞️ I’m looking to collaborate on any project that I find intresting
